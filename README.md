@@ -15,7 +15,7 @@ I will make videos about this chalenge on [Instagram](https://www.instagram.com/
 
 | Week | Project | Description |
 |------|---------|-------------|
-| 01   | [DEVLINK](link) | Short description |
+| 01   | [DEVLINK]([link](https://github.com/Juels0nB/DevLink)) | A Linktree-style page where you can add and manage your own custom links |
 | 02   | Coming soon... | — |
  <br/>
 > 📌 I’ll update this list every week. <br/>
