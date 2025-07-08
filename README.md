@@ -1,7 +1,7 @@
 ## Welcome I'm Juelson,
 A web & mobile development student documenting my journey to become a skilled front-end developer.
 
-### 📌 30-Day Dev Challenge <br/>
+### 📌 30-Weeks Dev Challenge <br/>
 
 This is my personal challenge: **1 project per week** using **React**, **JavaScript**, and modern web tools — to build a solid portfolio and grow fast through practice. <br/>
 
@@ -16,7 +16,8 @@ I will make videos about this chalenge on [Instagram](https://www.instagram.com/
 | Week | Project | Description |
 |------|---------|-------------|
 | 01   | [DEVLINK](https://github.com/Juels0nB/DevLink) | A Linktree-style page where you can add and manage your own custom links |
-| 02   | Coming soon... | — |
+| 02   | [TO-DO APP](https://github.com/Juels0nB/To-Do-App) | 📝 Time to master tasks and state in React! |
+| 03   | Coming soon... | — |
  <br/>
 > 📌 I’ll update this list every week. <br/>
 
