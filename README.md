@@ -18,7 +18,7 @@ I will make videos about this chalenge on [Instagram](https://www.instagram.com/
 | 01   | [DEVLINK](https://github.com/Juels0nB/DevLink) | A Linktree-style page where you can add and manage your own custom links |
 | 02   | [TO-DO APP](https://github.com/Juels0nB/To-Do-App) | 📝 Time to master tasks and state in React! |
 | 03   | [WEATHER APP](https://github.com/Juels0nB/---Weather-App---React---OpenWeather-API)  | A Weather App that allows users to search for a city and view real-time weather data using the OpenWeather API. |
-| 04   | [QR CODE GENERATOR](https://github.com/Juels0nB/QR-Code-Generator-App)  | Calculator App built with React |
+| 04   | [QR CODE GENERATOR](https://github.com/Juels0nB/QR-Code-Generator-App)  | Simple and responsive QR Code Generator built with React and styled with Tailwind CSS. |
 | 05   | Coming soon... | - |
  <br/>
 > 📌 I’ll update this list every week. <br/>
