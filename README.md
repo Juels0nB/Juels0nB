@@ -19,7 +19,9 @@ I will make videos about this chalenge on [Instagram](https://www.instagram.com/
 | 02   | [TO-DO APP](https://github.com/Juels0nB/To-Do-App) | 📝 Time to master tasks and state in React! |
 | 03   | [WEATHER APP](https://github.com/Juels0nB/---Weather-App---React---OpenWeather-API)  | A Weather App that allows users to search for a city and view real-time weather data using the OpenWeather API. |
 | 04   | [QR CODE GENERATOR](https://github.com/Juels0nB/QR-Code-Generator-App)  | Simple and responsive QR Code Generator built with React and styled with Tailwind CSS. |
-| 05   | Coming soon... | - |
+| 05   | [Calculator-App](https://github.com/Juels0nB/Calculator-App)  | Simple and functional Calculator App built with React. |
+| 06   | [Word-Counter-](https://github.com/Juels0nB/Word-Counter-)  | A simple and useful word counter app built with React. |
+| 07   | Coming soon... | - |
  <br/>
 > 📌 I’ll update this list every week. <br/>
 
