@@ -22,7 +22,7 @@ I will make videos about this chalenge on [Instagram](https://www.instagram.com/
 | 05   | [Calculator-App](https://github.com/Juels0nB/Calculator-App)  | Simple and functional Calculator App built with React. |
 | 06   | [Word-Counter-App](https://github.com/Juels0nB/Word-Counter-)  | A simple and useful word counter app built with React. |
 | 07   | [Digital-Clock-App](https://github.com/Juels0nB/Digital-Clock-App)  | App built with React, displaying the current time in hours, minutes, and seconds, updating in real-time. |
-| 07   | Coming soon... | - |
+| 08   | Coming soon... | - |
  <br/>
 > 📌 I’ll update this list every week. <br/>
 
