@@ -1,9 +1,9 @@
 ## Welcome I'm Juelson,
 A web & mobile development student documenting my journey to become a skilled front-end developer.
 
-### 📌 30-Weeks Dev Challenge <br/>
+### 📌 Dev Challenge <br/>
 
-This is my personal challenge: **1 project per week** using **React**, **JavaScript**, and modern web tools — to build a solid portfolio and grow fast through practice. <br/>
+This is my personal challenge: **projects ** using **React**, **JavaScript**, and modern web tools — to build a solid portfolio and grow fast through practice. <br/>
 
 ### 🎯 Goal <br/>
 
