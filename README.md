@@ -9,7 +9,7 @@ This is my personal challenge: **projects ** using **React**, **JavaScript**, an
 
 Improve my real-world coding skills and show my progress publicly. I’ll share everything I learn: wins, struggles, and code. <br/>
 
-I will make videos about this chalenge on [Instagram](https://www.instagram.com/jpb.dev?igsh=bGpiZTc2MTh5dHVv&utm_source=qr) <br/>
+
 
 ## 📁 Projects <br/>
 
