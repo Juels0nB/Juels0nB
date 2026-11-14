@@ -1,30 +1,5 @@
 ## Welcome I'm Juelson,
-A web & mobile development student documenting my journey to become a skilled front-end developer.
 
-### 📌 Dev Challenge <br/>
-
-This is my personal challenge: **projects ** using **React**, **JavaScript**, and modern web tools — to build a solid portfolio and grow fast through practice. <br/>
-
-### 🎯 Goal <br/>
-
-Improve my real-world coding skills and show my progress publicly. I’ll share everything I learn: wins, struggles, and code. <br/>
-
-
-
-## 📁 Projects <br/>
-
-| Week | Project | Description |
-|------|---------|-------------|
-| 01   | [DEVLINK](https://github.com/Juels0nB/DevLink) | A Linktree-style page where you can add and manage your own custom links |
-| 02   | [TO-DO APP](https://github.com/Juels0nB/To-Do-App) | 📝 Time to master tasks and state in React! |
-| 03   | [WEATHER APP](https://github.com/Juels0nB/---Weather-App---React---OpenWeather-API)  | A Weather App that allows users to search for a city and view real-time weather data using the OpenWeather API. |
-| 04   | [QR CODE GENERATOR](https://github.com/Juels0nB/QR-Code-Generator-App)  | Simple and responsive QR Code Generator built with React and styled with Tailwind CSS. |
-| 05   | [Calculator-App](https://github.com/Juels0nB/Calculator-App)  | Simple and functional Calculator App built with React. |
-| 06   | [Word-Counter-App](https://github.com/Juels0nB/Word-Counter-)  | A simple and useful word counter app built with React. |
-| 07   | [Digital-Clock-App](https://github.com/Juels0nB/Digital-Clock-App)  | App built with React, displaying the current time in hours, minutes, and seconds, updating in real-time. |
-| 08   | Coming soon... | - |
- <br/>
-> 📌 I’ll update this list every week. <br/>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
